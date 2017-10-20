@@ -1,0 +1,13 @@
+{
+  "name": "citydashboard",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "bootstrap": "^3.3.7",
+    "admin-lte": "adminlte#^2.4.2"
+  },
+  "resolutions": {
+    "jquery": "^3.2.1"
+  }
+}
